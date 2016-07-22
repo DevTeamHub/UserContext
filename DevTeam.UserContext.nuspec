@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DevTeam.UserContext</id>
+    <version>0.0.0</version>
+    <title>User Context</title>
+    <authors>Dev Team Inc.</authors>
+    <owners>Dev Team Inc.</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>User Context.</description>
+    <summary />
+    <releaseNotes>Unstable version without the documentation.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Identity.Core" version="2.0.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Web" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
